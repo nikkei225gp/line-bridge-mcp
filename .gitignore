@@ -1,0 +1,44 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+node_modules/
+.deno/
+runtime/
+profiles/
+private/
+*.db
+*.db-*
+*.sqlite*
+*.dpapi
+*.log
+*.bak
+*.png
+*.jpg
+*.har
+.env*
+session*.json
+desktop-session*.json
+endpoint.json
+qr*
+*.zip
+*.mcpb
+# Generated local scan evidence is not a maintained source file.
+docs/secret-scan-evidence.json
+
+# Local agent state and development worktrees must never be published.
+.claude/
+.codex/
+.opencode/
+# Additional private keys, local exports and release archives.
+*.pem
+*.key
+*.p12
+*.pfx
+profile-key.bin
+*.tar.gz
+*.7z

@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "line-bridge"
+version = "0.3.0"
+description = "Single-user Windows/Linux bridge for personal LINE, OpenChat and optional MCP Events"
+requires-python = ">=3.11,<3.12"
+license = "MIT"
+dependencies = ["cryptography==50.0.2", "qrcode[pil]==8.2", "pywin32==312; sys_platform == 'win32'"]
+
+[project.scripts]
+linebridge = "line_bridge.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+line_bridge = ["js/*.ts", "js/*.json", "js/*.lock"]

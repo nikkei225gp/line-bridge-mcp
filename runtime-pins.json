@@ -1,0 +1,35 @@
+{
+  "python": "3.11.15",
+  "deno": {
+    "version": "2.9.7",
+    "url": "https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-pc-windows-msvc.zip",
+    "sha256": "a0c3101b4158d1dfb7d6a78a7bf0f3de80c96bb423c152beec8beb22786f2238"
+  },
+  "linejs": {
+    "commit": "ef6c3d9f70dd41fa51053615d47f071f58cf8db3",
+    "url": "https://codeload.github.com/evex-dev/linejs/tar.gz/ef6c3d9f70dd41fa51053615d47f071f58cf8db3",
+    "sha256": "354a4800c47b9de127c37af00ea982f63bff4ae0291e2a99451dfb4cce1bcfae"
+  },
+  "linux_x64": {
+    "deno": {
+      "version": "2.9.7",
+      "url": "https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-unknown-linux-gnu.zip",
+      "sha256": "c6527f24f4b16031d3ae4fa9f658d5f11534c8d84ce7dc8502420280919c3490"
+    },
+    "uv": {
+      "version": "0.12.17",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.12.17/uv-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "fa82fd8dde8e8eefdecada6aa0889666556cfceb690d06e0c3bca49eb3070a63"
+    }
+  },
+  "npm_security_overrides": {
+    "thrift": "0.23.0"
+  },
+  "windows_x64": {
+    "uv": {
+      "version": "0.12.17",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.12.17/uv-x86_64-pc-windows-msvc.zip",
+      "sha256": "a252121d5b59398fcb137c6ea448176459a44010f33f67e0072305a637119ca7"
+    }
+  }
+}

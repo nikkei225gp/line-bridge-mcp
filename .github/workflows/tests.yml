@@ -1,0 +1,29 @@
+name: Tests
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  python:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install .
+      - run: python -B tools/run-tests.py
+      - run: python -B tools/smoke-agent.py
+      - run: python -B tools/bootstrap-runtime.py
+      - name: Fixed LINEJS offline tests
+        env:
+          DENO_DIR: ${{ github.workspace }}/runtime/deno-cache
+        run: >-
+          .\runtime\deno\deno.exe test --cached-only --frozen --no-prompt
+          --config .\runtime\linejs\linebridge-deno.json --allow-read=./runtime/linejs
+          --allow-env=NODE_DEBUG,NODE_OPTIONS,DEBUG,NODE_ENV,Q_DEBUG,Q_LONG_STACKS,WS_NO_BUFFER_UTIL,WS_NO_UTF_8_VALIDATE
+          tests/openchat_test.ts tests/unified_test.ts tests/desktop-codec_test.ts tests/recovery_test.ts tests/devices_test.ts tests/media_test.ts
+          -- "${{ github.workspace }}/runtime/linejs"
+      - run: python -B tools/release-scan.py

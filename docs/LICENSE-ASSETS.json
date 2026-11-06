@@ -1,0 +1,1316 @@
+{
+  "schema": 1,
+  "checked_at": "2026-10-06",
+  "scope": "Locally installed/cached locked dependencies only",
+  "license_review_complete": false,
+  "distribution_approved": false,
+  "npm": [
+    {
+      "identifier": "@asamuzakjp/css-color@3.2.0",
+      "manifest_present": true,
+      "manifest_version": "3.2.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1092,
+          "sha256": "1156c4bf9aa3982ff6157a4a8615906f225e4f46126dc41bf14df9aa7d74601b"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "@csstools/color-helpers@5.1.0",
+      "manifest_present": true,
+      "manifest_version": "5.1.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT-0",
+      "notice_files": [
+        {
+          "file": "LICENSE.md",
+          "bytes": 930,
+          "sha256": "947e32047a166cd05f04e45938d172b412c07cbee0b9735afd14bae30e02c2f6"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "@csstools/css-calc@2.1.4_@csstools+css-parser-algorithms@3.0.5_@csstools+css-tokenizer@3.0.4",
+      "manifest_present": true,
+      "manifest_version": "2.1.4",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.md",
+          "bytes": 1111,
+          "sha256": "d00d032f517721b45c56c70c46bf904ebb71ad313df4d4db7722266b38069665"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "@csstools/css-color-parser@3.1.0_@csstools+css-parser-algorithms@3.0.5_@csstools+css-tokenizer@3.0.4",
+      "manifest_present": true,
+      "manifest_version": "3.1.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.md",
+          "bytes": 1111,
+          "sha256": "d00d032f517721b45c56c70c46bf904ebb71ad313df4d4db7722266b38069665"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "@csstools/css-parser-algorithms@3.0.5_@csstools+css-tokenizer@3.0.4",
+      "manifest_present": true,
+      "manifest_version": "3.0.5",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.md",
+          "bytes": 1111,
+          "sha256": "d00d032f517721b45c56c70c46bf904ebb71ad313df4d4db7722266b38069665"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "@csstools/css-tokenizer@3.0.4",
+      "manifest_present": true,
+      "manifest_version": "3.0.4",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.md",
+          "bytes": 1111,
+          "sha256": "d00d032f517721b45c56c70c46bf904ebb71ad313df4d4db7722266b38069665"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "@noble/ciphers@2.4.0",
+      "manifest_present": true,
+      "manifest_version": "2.4.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1161,
+          "sha256": "f36671a5487c9c5050efacb58011c37c24c55a889803cb036cf9d9a6347c1e2d"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "@types/node-int64@0.4.32",
+      "manifest_present": true,
+      "manifest_version": "0.4.32",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1141,
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "@types/node@26.6.4",
+      "manifest_present": true,
+      "manifest_version": "26.6.4",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1141,
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "@types/q@1.5.8",
+      "manifest_present": true,
+      "manifest_version": "1.5.8",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1141,
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "@types/thrift@0.10.17",
+      "manifest_present": true,
+      "manifest_version": "0.10.17",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1141,
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "agent-base@7.1.4",
+      "manifest_present": true,
+      "manifest_version": "7.1.4",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1101,
+          "sha256": "8d8c55319c7729d57be811c747452636688d54f19701ee0752b6b15ad3771d9a"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "async-limiter@1.0.1",
+      "manifest_present": true,
+      "manifest_version": "1.0.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1107,
+          "sha256": "e5a57cdd72e279910183799153134d0e749a5664fc459c8eacbecf72532b7db3"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "asynckit@0.4.0",
+      "manifest_present": true,
+      "manifest_version": "0.4.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1078,
+          "sha256": "1953150d5d4b10c7542cee6f6e0c613b2682545233f069d75cfff1936386ce10"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "browser-or-node@1.3.0",
+      "manifest_present": true,
+      "manifest_version": "1.3.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1110,
+          "sha256": "24db40be0d44fa26998a36b48321360478c5f2b6fe80b05c620b21a2810c2351"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "call-bind-apply-helpers@1.0.2",
+      "manifest_present": true,
+      "manifest_version": "1.0.2",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1071,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "combined-stream@1.0.8",
+      "manifest_present": true,
+      "manifest_version": "1.0.8",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "License",
+          "bytes": 1085,
+          "sha256": "47eb8ca82c798246774946d1be0f9aa08f025fa8325ced0947aeeb4c05fe5547"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "crypto-js@4.2.0",
+      "manifest_present": true,
+      "manifest_version": "4.2.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1169,
+          "sha256": "f729d14b7e1bf8adca0dcc38b93b929d14d53fcd5db56c3d1c9b2daa7aa69396"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "cssstyle@4.6.0",
+      "manifest_present": true,
+      "manifest_version": "4.6.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1050,
+          "sha256": "768faff9f6908c78d848b18770b2a93e3361d6e2ee35edf45c6a5ddf1f7cb185"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "curve25519-js@0.0.4",
+      "manifest_present": true,
+      "manifest_version": "0.0.4",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1062,
+          "sha256": "f0b5953faacf880f13a4a68a4e204aa519c3b4d3b96576094d4bf561798768a3"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "data-urls@5.0.0",
+      "manifest_present": true,
+      "manifest_version": "5.0.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.txt",
+          "bytes": 1069,
+          "sha256": "528eec83cb836a0adda9f8fc3d6a2a70a710d6cc0be9a155f92212c8df28acfa"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "debug@4.4.3",
+      "manifest_present": true,
+      "manifest_version": "4.4.3",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1139,
+          "sha256": "3a61c6c96caf5c1d9b623fb9b04c822b783dfcb78aa7e49c76a3f643e6ed7f95"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "decimal.js@10.6.0",
+      "manifest_present": true,
+      "manifest_version": "10.6.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENCE.md",
+          "bytes": 1104,
+          "sha256": "3108b546bcff5d346923a82f48b2d252ca722f9088076db6d145f6b67757ad6c"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "delayed-stream@1.0.0",
+      "manifest_present": true,
+      "manifest_version": "1.0.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "License",
+          "bytes": 1085,
+          "sha256": "47eb8ca82c798246774946d1be0f9aa08f025fa8325ced0947aeeb4c05fe5547"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "dunder-proto@1.0.1",
+      "manifest_present": true,
+      "manifest_version": "1.0.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1073,
+          "sha256": "2b770a704c15de238c3f622b01b0044ddd60b49ee30608ea6991ebf19db7a7a1"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "entities@6.0.1",
+      "manifest_present": true,
+      "manifest_version": "6.0.1",
+      "manifest_matches_lock": true,
+      "declared_license": "BSD-2-Clause",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1260,
+          "sha256": "cb992345949ccd6e8394b2cd6c465f7b897c864f845937dbf64e8997f389e164"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "es-define-property@1.0.1",
+      "manifest_present": true,
+      "manifest_version": "1.0.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1071,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "es-errors@1.3.0",
+      "manifest_present": true,
+      "manifest_version": "1.3.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1071,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "es-object-atoms@1.1.2",
+      "manifest_present": true,
+      "manifest_version": "1.1.2",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1071,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "es-set-tostringtag@2.1.0",
+      "manifest_present": true,
+      "manifest_version": "2.1.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1073,
+          "sha256": "1a3aeb1f1398bd697d57c3c585faadf59d825aca6e3162cd7eeb72ff76eb2466"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "form-data@4.0.6",
+      "manifest_present": true,
+      "manifest_version": "4.0.6",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "License",
+          "bytes": 1118,
+          "sha256": "e5b780d4f38d1d3328e3e53186c4e62d3fa149ea6f2bacd5de5ad0c30ac85343"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "function-bind@1.1.2",
+      "manifest_present": true,
+      "manifest_version": "1.1.2",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1052,
+          "sha256": "773e131a7684726005a7e4688a80b4620033bc08499bc1404dd1a1eb3bca725e"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "get-intrinsic@1.3.0",
+      "manifest_present": true,
+      "manifest_version": "1.3.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1071,
+          "sha256": "39c5ec504cf6bd5cd782a7c695828e09189df79f5d94840e4f08feb97b9fd416"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "get-proto@1.0.1",
+      "manifest_present": true,
+      "manifest_version": "1.0.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1071,
+          "sha256": "be46ce1e3b0479af9ce82d22b465a6d7d2ff084fca0aaf3d54172da2b5eb5781"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "gopd@1.2.0",
+      "manifest_present": true,
+      "manifest_version": "1.2.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1071,
+          "sha256": "d90bf0a089da4cf43d644ed240a0b3825dcdb705e64e38371d56995a4cc9e4c5"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "has-symbols@1.1.0",
+      "manifest_present": true,
+      "manifest_version": "1.1.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1071,
+          "sha256": "206c1adcf206dc0031b11232f5b054ec5f1662407ab1ca415247921cab2068ab"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "has-tostringtag@1.0.2",
+      "manifest_present": true,
+      "manifest_version": "1.0.2",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1067,
+          "sha256": "e2560e002e13281578c75c850061d9255c33d16d732939e8c2db64c2506642fa"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "hasown@2.0.4",
+      "manifest_present": true,
+      "manifest_version": "2.0.4",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1083,
+          "sha256": "bf9b0d665be2a689851eea667ca9f42066ea1d903b38349c51e6a44b2577680a"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "html-encoding-sniffer@4.0.0",
+      "manifest_present": true,
+      "manifest_version": "4.0.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.txt",
+          "bytes": 1069,
+          "sha256": "528eec83cb836a0adda9f8fc3d6a2a70a710d6cc0be9a155f92212c8df28acfa"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "http-proxy-agent@7.0.2",
+      "manifest_present": true,
+      "manifest_version": "7.0.2",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1102,
+          "sha256": "71368fd0f5b4129191e9afcd1e1ef2dc89a9090d3e4d80bbab92dafd032b3bef"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "https-proxy-agent@7.0.6",
+      "manifest_present": true,
+      "manifest_version": "7.0.6",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1101,
+          "sha256": "8d8c55319c7729d57be811c747452636688d54f19701ee0752b6b15ad3771d9a"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "iconv-lite@0.6.3",
+      "manifest_present": true,
+      "manifest_version": "0.6.3",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1064,
+          "sha256": "ac779f7314c74f232ef847ea86e714abe25cf6eeb5cc97b69451b74e2af6492d"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "is-potential-custom-element-name@1.0.1",
+      "manifest_present": true,
+      "manifest_version": "1.0.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE-MIT.txt",
+          "bytes": 1077,
+          "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "isomorphic-ws@4.0.1_ws@5.2.7",
+      "manifest_present": true,
+      "manifest_version": "4.0.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1099,
+          "sha256": "12a66fee27259312cf2101ac5a17f009da37dffdfcd051f821116a74ae9bf841"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "jsdom@25.0.0",
+      "manifest_present": true,
+      "manifest_version": "25.0.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.txt",
+          "bytes": 1056,
+          "sha256": "242d37e7cab25cbafc36cc973ee88f9345fddf066afe4f72b7ac3d9ad4e24cce"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "lru-cache@10.4.3",
+      "manifest_present": true,
+      "manifest_version": "10.4.3",
+      "manifest_matches_lock": true,
+      "declared_license": "ISC",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 775,
+          "sha256": "451ec07eeb9c4e1b86de9abdaa426462a8be48f887ec7421cf0bbb9c769555ab"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "math-intrinsics@1.1.0",
+      "manifest_present": true,
+      "manifest_version": "1.1.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1073,
+          "sha256": "2b770a704c15de238c3f622b01b0044ddd60b49ee30608ea6991ebf19db7a7a1"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "mime-db@1.52.0",
+      "manifest_present": true,
+      "manifest_version": "1.52.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1172,
+          "sha256": "cc1dfd4dafa27271e8212cd3b274eeb3f262e40a6fdab36ddc3f9696f706f58b"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "mime-types@2.1.35",
+      "manifest_present": true,
+      "manifest_version": "2.1.35",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1167,
+          "sha256": "71f83c4c0621102a56d9853812777b85751bce7e9726f686f5b056c1f8a4b0e6"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "ms@2.1.3",
+      "manifest_present": true,
+      "manifest_version": "2.1.3",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "license.md",
+          "bytes": 1079,
+          "sha256": "1662fae9b5314d11cf51284e2dcd1f006a354f7343f08712a730fcff9a359801"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "node-bignumber@1.2.2",
+      "manifest_present": true,
+      "manifest_version": "v1.2.2",
+      "manifest_matches_lock": true,
+      "declared_license": null,
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 2086,
+          "sha256": "777d11c632ce411170917ca6eb133c91f39b0fa9e95f6fb2c1fc86bb766ae166"
+        },
+        {
+          "file": "original/LICENSE",
+          "bytes": 1544,
+          "sha256": "e0e396530fd1624126e9a7e0df94811e4062e03baeccb07bc33c934b0fd93a85"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "node-int64@0.4.0",
+      "manifest_present": true,
+      "manifest_version": "0.4.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1058,
+          "sha256": "8f85aab053e268546014761da47630a09886626afbd0d8d440cb2c69611bb8d3"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "nwsapi@2.2.28",
+      "manifest_present": true,
+      "manifest_version": "2.2.28",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1084,
+          "sha256": "2aebdf8ae67777ccb2fa66b32066c1a16bd71085011bb4085dc7408e2947d2c2"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "opusscript@0.1.1",
+      "manifest_present": true,
+      "manifest_version": "0.1.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "build/COPYING.libopus",
+          "bytes": 1928,
+          "sha256": "8338ce8d922bb4416ce3dd1e5680173332435e3f0755007ac7801ccd674fe682"
+        },
+        {
+          "file": "LICENSE",
+          "bytes": 1083,
+          "sha256": "4cd1d429bae80d10e538739e412b4300b8490786473e7b60280f9638cec683e3"
+        }
+      ],
+      "embedded_native_assets": [
+        {
+          "file": "build/opusscript_native_wasm.wasm",
+          "bytes": 317635,
+          "sha256": "e24b269dbfde9f357de19f5b4f6458010be356d7122b0bb8bfe439504a6d5c33"
+        }
+      ]
+    },
+    {
+      "identifier": "parse5@7.3.0",
+      "manifest_present": true,
+      "manifest_version": "7.3.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1109,
+          "sha256": "8c535800331e1e4439835555b3f9edc7fe9dee2fab0d8bbbd5a982e8b8343d4d"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "psl@1.15.0",
+      "manifest_present": true,
+      "manifest_version": "1.15.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1101,
+          "sha256": "ae8c4a3b09681bc30ecbc984d58c4dc2c21b56d320fc02f558d12e86995c26c8"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "punycode@2.3.1",
+      "manifest_present": true,
+      "manifest_version": "2.3.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE-MIT.txt",
+          "bytes": 1077,
+          "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "q@1.5.1",
+      "manifest_present": true,
+      "manifest_version": "1.5.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1092,
+          "sha256": "a7c173cd1c492e852f865a15c8fcf2a9a3ad8eb8445fdd97be402fae05850e4e"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "querystringify@2.2.0",
+      "manifest_present": true,
+      "manifest_version": "2.2.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1115,
+          "sha256": "3b2a6a268aa815dec121d614245e03b5c68db1f044d5b525e36db7d5dc7fb9c3"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "requires-port@1.0.0",
+      "manifest_present": true,
+      "manifest_version": "1.0.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1115,
+          "sha256": "3b2a6a268aa815dec121d614245e03b5c68db1f044d5b525e36db7d5dc7fb9c3"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "rrweb-cssom@0.7.1",
+      "manifest_present": true,
+      "manifest_version": "0.7.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.txt",
+          "bytes": 1054,
+          "sha256": "e539937c489c4928ad7461669ec017f4d916fb3565fc26f5b8a0ce816d2ed23c"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "rrweb-cssom@0.8.0",
+      "manifest_present": true,
+      "manifest_version": "0.8.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.txt",
+          "bytes": 1054,
+          "sha256": "e539937c489c4928ad7461669ec017f4d916fb3565fc26f5b8a0ce816d2ed23c"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "safer-buffer@2.1.2",
+      "manifest_present": true,
+      "manifest_version": "2.1.2",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1094,
+          "sha256": "4bc935e71be198c67ddf3c2b5fddb195f6edc182bfc155a96a6db61b44b494b9"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "saxes@6.0.0",
+      "manifest_present": true,
+      "manifest_version": "6.0.0",
+      "manifest_matches_lock": true,
+      "declared_license": "ISC",
+      "notice_files": [],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "symbol-tree@3.2.4",
+      "manifest_present": true,
+      "manifest_version": "3.2.4",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1084,
+          "sha256": "9ea1eccdabe469767a9edb9249a840b2461cf91b2434bf8a3e2fc1f414311cb1"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "thrift@0.23.0",
+      "manifest_present": true,
+      "manifest_version": "0.23.0",
+      "manifest_matches_lock": true,
+      "declared_license": "Apache-2.0",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 15881,
+          "sha256": "89aa7b27868669299bd8a6c53b72ec4beadce42dad6c8336797cc26e1e8df98d"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "tough-cookie@4.1.4",
+      "manifest_present": true,
+      "manifest_version": "4.1.4",
+      "manifest_matches_lock": true,
+      "declared_license": "BSD-3-Clause",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1485,
+          "sha256": "22ec6791c91ba42c0516a05f4cbdde019aae4687f8a38c5ca7e8a69ee68f851d"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "tr46@5.1.1",
+      "manifest_present": true,
+      "manifest_version": "5.1.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.md",
+          "bytes": 1076,
+          "sha256": "499d6d466d064e0460427967a344e2a32fcb86ea8c6cd1a285ec4f1fa03fba67"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "tweetnacl@1.0.3",
+      "manifest_present": true,
+      "manifest_version": "1.0.3",
+      "manifest_matches_lock": true,
+      "declared_license": "Unlicense",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1210,
+          "sha256": "88d9b4eb60579c191ec391ca04c16130572d7eedc4a86daa58bf28c6e14c9bcd"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "undici-types@8.9.0",
+      "manifest_present": true,
+      "manifest_version": "8.9.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1090,
+          "sha256": "a6db8096b2707bc0102d256917d4d33f298ba36d8c3f25de067a2b5bb379db27"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "undici@7.30.0",
+      "manifest_present": true,
+      "manifest_version": "7.30.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "lib/web/fetch/LICENSE",
+          "bytes": 1071,
+          "sha256": "a21d6c8d3fc631198b97e57584697f7f9c37805c71c6cf9a12e4442b40394b88"
+        },
+        {
+          "file": "LICENSE",
+          "bytes": 1090,
+          "sha256": "a6db8096b2707bc0102d256917d4d33f298ba36d8c3f25de067a2b5bb379db27"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "universalify@0.2.0",
+      "manifest_present": true,
+      "manifest_version": "0.2.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1100,
+          "sha256": "3fda5977c0904e226190b4e21d64340c1731e2142d6fe5f3dee0090a216b8b63"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "url-parse@1.5.10",
+      "manifest_present": true,
+      "manifest_version": "1.5.10",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1115,
+          "sha256": "3b2a6a268aa815dec121d614245e03b5c68db1f044d5b525e36db7d5dc7fb9c3"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "uuid@13.0.2",
+      "manifest_present": true,
+      "manifest_version": "13.0.2",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.md",
+          "bytes": 1109,
+          "sha256": "beaa6b04fb82e41dd2ad679e19e27953afb5999b1abbb455b6564e78ebfeb332"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "w3c-xmlserializer@5.0.0",
+      "manifest_present": true,
+      "manifest_version": "5.0.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.md",
+          "bytes": 1105,
+          "sha256": "ab654de803cdaa9e2819ab2e934bdf7f757e308649ec231d78e80e92425cdc34"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "webidl-conversions@7.0.0",
+      "manifest_present": true,
+      "manifest_version": "7.0.0",
+      "manifest_matches_lock": true,
+      "declared_license": "BSD-2-Clause",
+      "notice_files": [
+        {
+          "file": "LICENSE.md",
+          "bytes": 1323,
+          "sha256": "a889cc4dbee2ae172c179856b25d75b0b7a5a136e1b97109b9b590b2ff1a879c"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "whatwg-encoding@3.1.1",
+      "manifest_present": true,
+      "manifest_version": "3.1.1",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.txt",
+          "bytes": 1069,
+          "sha256": "528eec83cb836a0adda9f8fc3d6a2a70a710d6cc0be9a155f92212c8df28acfa"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "whatwg-mimetype@4.0.0",
+      "manifest_present": true,
+      "manifest_version": "4.0.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.txt",
+          "bytes": 1069,
+          "sha256": "528eec83cb836a0adda9f8fc3d6a2a70a710d6cc0be9a155f92212c8df28acfa"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "whatwg-url@14.2.0",
+      "manifest_present": true,
+      "manifest_version": "14.2.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE.txt",
+          "bytes": 1076,
+          "sha256": "db480f236292a093e77a83c35431a8496624e1e664a3547768a9ce2bdde39877"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "ws@5.2.7",
+      "manifest_present": true,
+      "manifest_version": "5.2.7",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1106,
+          "sha256": "3de284c8e6fa7e8437eff6f53695471e0332129a5b42a79361e17b7637de94b3"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "ws@8.22.0",
+      "manifest_present": true,
+      "manifest_version": "8.22.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1183,
+          "sha256": "2b29dcfe0d6471f7e8c92c5fb38c9f93edee10330937055440192f1832b1ecef"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "xml-name-validator@5.0.0",
+      "manifest_present": true,
+      "manifest_version": "5.0.0",
+      "manifest_matches_lock": true,
+      "declared_license": "Apache-2.0",
+      "notice_files": [
+        {
+          "file": "LICENSE.txt",
+          "bytes": 10173,
+          "sha256": "a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9"
+        }
+      ],
+      "embedded_native_assets": []
+    },
+    {
+      "identifier": "xmlchars@2.2.0",
+      "manifest_present": true,
+      "manifest_version": "2.2.0",
+      "manifest_matches_lock": true,
+      "declared_license": "MIT",
+      "notice_files": [
+        {
+          "file": "LICENSE",
+          "bytes": 1086,
+          "sha256": "45d196313c2647d313cc65ca9b093d2d6974b64d35ee7346f2c60c9d518dff2c"
+        }
+      ],
+      "embedded_native_assets": []
+    }
+  ],
+  "linejs_root_notice": {
+    "file": "LICENSE",
+    "bytes": 1077,
+    "sha256": "c9f0b6a1a4e3cbbea276a3929cc7202d3003b4d8cf5e8422e3d03adb1088d35a"
+  },
+  "linejs_generated_assets": [
+    {
+      "file": "packages/types/thrift.ts",
+      "bytes": 597234,
+      "sha256": "2ce5de0062eebaf009202909a6d4cb7d8513f0899a4f939b664339a324242914"
+    },
+    {
+      "file": "packages/types/line_types.ts",
+      "bytes": 432166,
+      "sha256": "fde2f6d7a42ca213aeb9dbe251e153963104b780c5a785e683be1d4b2acb3a35"
+    },
+    {
+      "file": "packages/linejs/base/thrift/readwrite/struct.ts",
+      "bytes": 316553,
+      "sha256": "b8f161b27670fdcaca95c1d42b0a845209d4c195db9a00d199d11fb615db4918"
+    }
+  ],
+  "blockers": [
+    {
+      "id": "generated_types_provenance",
+      "component": "linejs",
+      "state": "unresolved",
+      "detail": "Root MIT notice found; generated schema provenance has not been independently cleared"
+    },
+    {
+      "id": "embedded_opus_notices",
+      "component": "opusscript",
+      "state": "unresolved",
+      "detail": "Package license declaration does not alone clear bundled codec assets"
+    },
+    {
+      "id": "runtime_and_optional_tunnel",
+      "state": "unresolved",
+      "detail": "Deno embedded notices, JSR packages and optional tunnel require full review; not bundled in source candidate"
+    },
+    {
+      "id": "missing_package_notice",
+      "component": "saxes@6.0.0",
+      "state": "no_separate_notice_found_in_local_cache"
+    }
+  ],
+  "limitations": "Not legal advice or a complete provenance/compatibility review. Missing files are not evidence of permission."
+}
